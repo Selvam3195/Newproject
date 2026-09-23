@@ -198,16 +198,3 @@ This project demonstrates practical knowledge of:
 * AWS troubleshooting
 * AWS monitoring and logging
 
-## 📚 Learning Outcome
-
-This project demonstrates how AWS services can be connected to create an automated, event-driven workflow without managing servers.
-
-The project can be further enhanced with **Terraform and Jenkins** to demonstrate Infrastructure as Code and CI/CD practices.
-
----
-
-### Author
-
-**Selvaa**
-
-AWS / DevOps Practice Project
